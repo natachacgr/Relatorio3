@@ -1,0 +1,25 @@
+[
+    {
+        "_id": {
+            "$oid": "64172a361b396ef10ef0558f"
+        },
+        "id": 10,
+        "name": {
+            "english": "Caterpie",
+            "japanese": "\u30ad\u30e3\u30bf\u30d4\u30fc",
+            "chinese": "\u7eff\u6bdb\u866b",
+            "french": "Chenipan"
+        },
+        "type": [
+            "Bug"
+        ],
+        "base": {
+            "HP": 45,
+            "Attack": 30,
+            "Defense": 35,
+            "Sp. Attack": 20,
+            "Sp. Defense": 20,
+            "Speed": 45
+        }
+    }
+]
