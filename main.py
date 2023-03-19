@@ -1,4 +1,4 @@
-from database import Database
+from pokedex import Database
 from salva_json import writeAJson
 
 db = Database(database="dex", collection="pokemons")
